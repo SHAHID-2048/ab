@@ -1,0 +1,141 @@
+.first{
+    
+    position: relative;
+    background-color:aquamarine;
+   
+   
+}
+body{
+    margin: 0px;
+    text-align: center;
+   
+    font-family: sans-serif;
+
+}
+h1{
+    font-size: 50px;
+    color:#66bfbf ;
+    font-style:oblique;
+    margin-top: 0px;
+    font-family: freehand,sans-serif;
+    margin: 0 auto 0 auto;
+}
+.photo{
+    border-radius: 100px;
+    margin-top: 50px;
+   
+}
+.p{
+    font-size: 22px;
+}
+h2{
+    
+    font-size: 22px;
+    margin-top: 100px;
+}
+.skillsphoto{
+    
+    border-radius: 300px;
+    width: 250px;
+   /* float: right;
+    margin-right: 350px;
+    margin-top: 40px;*/
+}
+/*.skillstext{
+    /* margin-left: 450px;*/
+   /* margin-top: 130px;*/
+    /*width: 20%;*/
+/*clear:right*/
+
+.img1{
+    position: relative;
+    left: 200px;
+    padding-top: 100px;
+    ;
+}
+.img2{
+    height: 300px;
+    width: 500px;
+}
+span{
+    text-decoration: underline;
+}
+.img3{
+    position: absolute;
+    top: 228px;
+   
+}
+.college{
+    width: 50%;
+    margin-left: 330px;
+    margin-top:150px;
+   
+}
+.collegephoto{
+    float: left;
+    margin-top: 40px;
+    border-radius: 250px;
+}
+
+.collegetext{
+  width: 30%; 
+   margin-left: 270px;
+   margin-top: 70px;
+   line-height: 2
+  
+}
+
+
+hr{
+    margin-bottom: 100px;
+    margin-top: 70px;
+    border-color: grey;
+    border-style: dotted ;
+    width: 4%;
+    border-width: 7px;
+    border-bottom:none;
+}
+.third{
+    margin-top: 50px;
+    background-color: #66bfbf;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+a{
+    margin-right: 10px;
+}
+a:hover{
+    color:darkcyan ;
+}
+.copyright{
+    color: #eaf6f6;
+    font-size: 12px;
+    margin-top: 20px;
+}
+.contactbtn{
+   margin-top: 500px;
+        background: #11cdcd;
+        background-image: -webkit-linear-gradient(top, #11cdcd, #2980b9);
+        background-image: -moz-linear-gradient(top, #11cdcd, #2980b9);
+        background-image: -ms-linear-gradient(top, #11cdcd, #2980b9);
+        background-image: -o-linear-gradient(top, #11cdcd, #2980b9);
+        background-image: linear-gradient(to bottom, #11cdcd, #2980b9);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .contactbtn:hover {
+        background: #3cb0fd;
+        background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+        text-decoration: none;
+}       
